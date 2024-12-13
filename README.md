@@ -1,4 +1,3 @@
-# Inventory-Management-API
 # Inventory Management API
 
 ## Description
