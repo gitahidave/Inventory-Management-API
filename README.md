@@ -8,4 +8,4 @@ This is a Django-based API for managing inventory, allowing CRUD operations for 
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd Inventory-management-api
+   cd inventory_management
